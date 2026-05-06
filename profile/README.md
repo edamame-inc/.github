@@ -47,11 +47,28 @@ Our implementation services:
 15F Jollibee Tower, Ortigas Center
 Pasig City, Metro Manila 1605, Philippines
 
-## Product repos
+## Repos
 
-- [`edamame-website`](https://github.com/edamame-inc/edamame-website) — edamame-jp.com, 51 EN + 12 JA blog articles, 5 client case studies
-- [`digital-tom`](https://github.com/edamame-inc/digital-tom) — our AI chief of staff, Cloudflare Worker
-- [KinPlug org](https://github.com/KinPlug) — our Kintone plugin product line
+**Infrastructure**
+- [`digital-tom`](https://github.com/edamame-inc/digital-tom) — AI Chief of Staff (Cloudflare Worker, self-improving)
+- [`edamame-email-automation`](https://github.com/edamame-inc/edamame-email-automation) — AI email outreach for Kintone leads
+- [`camille-chatbot`](https://github.com/edamame-inc/camille-chatbot) — website chatbot AI persona
+
+**Public-facing**
+- [`edamame-website`](https://github.com/edamame-inc/edamame-website) — edamame-jp.com (51 EN + 12 JA articles, 5 case studies)
+- [`kinplug-website`](https://github.com/edamame-inc/kinplug-website) — kinplug.com (plugin product marketing)
+
+**Client work**
+- [`quipper-kintone-project`](https://github.com/edamame-inc/quipper-kintone-project) — Quipper PH HR contract apps
+- [`zagu-ordering-portal`](https://github.com/edamame-inc/zagu-ordering-portal) — Zagu Shakes dealer ordering
+- [`maxsol-hris-portal`](https://github.com/edamame-inc/maxsol-hris-portal) — Maximum Solutions HRIS
+- [`client-projects`](https://github.com/edamame-inc/client-projects) — internal client knowledge bases (private)
+
+**Open source / demos**
+- [`kintone-offline-platform`](https://github.com/edamame-inc/kintone-offline-platform) — offline-first Kintone PWA demo
+
+**Sister org**
+- [KinPlug](https://github.com/KinPlug) — our commercial Kintone plugin product line (separate brand)
 
 ## Authors
 
@@ -59,4 +76,4 @@ Pasig City, Metro Manila 1605, Philippines
 
 ---
 
-*Last updated: 2026-04-22*
+*Last updated: 2026-05-06*
