@@ -52,7 +52,6 @@ Pasig City, Metro Manila 1605, Philippines
 **Infrastructure**
 - [`digital-tom`](https://github.com/edamame-inc/digital-tom) — AI Chief of Staff (Cloudflare Worker, self-improving)
 - [`edamame-email-automation`](https://github.com/edamame-inc/edamame-email-automation) — AI email outreach for Kintone leads
-- [`camille-chatbot`](https://github.com/edamame-inc/camille-chatbot) — website chatbot AI persona
 
 **Public-facing**
 - [`edamame-website`](https://github.com/edamame-inc/edamame-website) — edamame-jp.com (51 EN + 12 JA articles, 5 case studies)
